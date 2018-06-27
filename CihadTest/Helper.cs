@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace CihadTest
 {
-    class Program
+    public class Helper
     {
-        static void Main(string[] args)
+        public string Request()
         {
-            Console.WriteLine("deneme");
-
-            Console.WriteLine("Hello World");
-
-            // açıklama
+            return "";
         }
     }
 }
