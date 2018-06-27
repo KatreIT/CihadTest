@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CihadTest", "CihadTest\CihadTest.csproj", "{29698615-4CEB-43FC-8778-763718988878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29698615-4CEB-43FC-8778-763718988878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29698615-4CEB-43FC-8778-763718988878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29698615-4CEB-43FC-8778-763718988878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29698615-4CEB-43FC-8778-763718988878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBC7A79-0039-4984-8D98-ABC147AE131F}
+	EndGlobalSection
+EndGlobal
